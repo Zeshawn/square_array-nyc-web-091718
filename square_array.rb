@@ -1,3 +1,3 @@
-def square_array(n)
+def square_array(array)
   new_array=[]
   
